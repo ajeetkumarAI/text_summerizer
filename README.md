@@ -11,8 +11,9 @@
 ## Deactive Base env - conda.bat deactivate  
 
 ## Create a isolated enviroment(Virtual Enviroment) for this project 
-
+```bash
 python -m venv myenv
+```
 
 ## Activate Virtual Env
 
