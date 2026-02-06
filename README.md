@@ -16,9 +16,9 @@ python -m venv myenv
 ```
 
 ## Activate Virtual Env
-```bash
+
 myenv\Scripts\activate.bat
-```
+
 
 ## Install Dependency - required library
 ### 1. Updates the requirments.txt
