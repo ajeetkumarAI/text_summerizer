@@ -1,4 +1,4 @@
-# 🚀 LLM Powered Text Translation Web App using Groq Cloud (LLaMA Models)
+# 🚀 LLM Powered Text Summerization Web App using Groq Cloud (LLaMA Models)
 
 This project demonstrates how to access **LLaMA series Large Language Models (LLMs)** using **Groq Cloud**, build a **Streamlit Web UI**, and deploy the application.
 
